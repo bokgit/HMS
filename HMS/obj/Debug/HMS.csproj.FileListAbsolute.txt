@@ -1,0 +1,15 @@
+C:\Users\bok\source\repos\HMS\bin\Debug\HMS.exe.config
+C:\Users\bok\source\repos\HMS\bin\Debug\HMS.exe
+C:\Users\bok\source\repos\HMS\bin\Debug\HMS.pdb
+C:\Users\bok\source\repos\HMS\obj\Debug\HMS.csprojAssemblyReference.cache
+C:\Users\bok\source\repos\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\bok\source\repos\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\bok\source\repos\HMS\obj\Debug\HMS.exe
+C:\Users\bok\source\repos\HMS\obj\Debug\HMS.pdb
+C:\Users\bok\source\repos\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\bok\source\repos\HMS\obj\Debug\HMS.frmLogin.resources
+C:\Users\bok\source\repos\HMS\obj\Debug\HMS.frmMain.resources
+C:\Users\bok\source\repos\HMS\bin\Debug\ucDASHBOARD.resx
+C:\Users\bok\source\repos\HMS\bin\Debug\ucDASHBOARD.cs
+C:\Users\bok\source\repos\HMS\bin\Debug\ucDASHBOARD.Designer.cs
+C:\Users\bok\source\repos\HMS\obj\Debug\HMS.ucDASHBOARD.resources
